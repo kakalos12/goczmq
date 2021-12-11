@@ -1,4 +1,4 @@
-module github.com/donggiggedin/goczmq/v4
+module github.com/kakalos12/goczmq/v4
 
 go 1.12
 
